@@ -1,0 +1,30 @@
+{
+  "name": "alexabins",
+  "version": "0.1.0",
+  "description": "Bin Collection Alexa skill Demo",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "council",
+    "bins",
+    "alexa"
+  ],
+  "author": "David Low",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-lambda-mock-context": "^3.1.1",
+    "chai": "^4.0.2",
+    "chai-as-promised":"7.0.0",
+    "mocha": "^3.4.2"
+  },
+  "dependencies": {
+    "alexa-sdk": "^1.0.10",
+    "request":"2.81.0",
+    "request-promise": "4.2.1"
+  }
+}

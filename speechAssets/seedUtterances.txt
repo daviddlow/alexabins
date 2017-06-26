@@ -1,0 +1,5 @@
+For using at: http://www.makermusings.com/amazon-echo-utterance-expander/
+
+        "what (do I put/goes/lives/can I put/) (in/into) the {colour} (bin/box/bucket)",
+        "(whats/what is) (the/a) {colour} (bin/box/bucket) for",
+        "how (do/can) (we/I) (use/utilise/make use of/fill up) the {colour} (bin/box/bucket)",

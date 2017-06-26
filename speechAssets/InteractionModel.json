@@ -1,0 +1,161 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "binsIntent",
+      "samples": [
+          "{colour}",
+          "how can I fill up the {colour} bin",
+          "how can I fill up the {colour} box",
+          "how can I fill up the {colour} bucket",
+          "how can I make use of the {colour} bin",
+          "how can I make use of the {colour} box",
+          "how can I make use of the {colour} bucket",
+          "how can I use the {colour} bin",
+          "how can I use the {colour} box",
+          "how can I use the {colour} bucket",
+          "how can I utilise the {colour} bin",
+          "how can I utilise the {colour} box",
+          "how can I utilise the {colour} bucket",
+          "how can we fill up the {colour} bin",
+          "how can we fill up the {colour} box",
+          "how can we fill up the {colour} bucket",
+          "how can we make use of the {colour} bin",
+          "how can we make use of the {colour} box",
+          "how can we make use of the {colour} bucket",
+          "how can we use the {colour} bin",
+          "how can we use the {colour} box",
+          "how can we use the {colour} bucket",
+          "how can we utilise the {colour} bin",
+          "how can we utilise the {colour} box",
+          "how can we utilise the {colour} bucket",
+          "how do I fill up the {colour} bin",
+          "how do I fill up the {colour} box",
+          "how do I fill up the {colour} bucket",
+          "how do I make use of the {colour} bin",
+          "how do I make use of the {colour} box",
+          "how do I make use of the {colour} bucket",
+          "how do I use the {colour} bin",
+          "how do I use the {colour} box",
+          "how do I use the {colour} bucket",
+          "how do I utilise the {colour} bin",
+          "how do I utilise the {colour} box",
+          "how do I utilise the {colour} bucket",
+          "how do we fill up the {colour} bin",
+          "how do we fill up the {colour} box",
+          "how do we fill up the {colour} bucket",
+          "how do we make use of the {colour} bin",
+          "how do we make use of the {colour} box",
+          "how do we make use of the {colour} bucket",
+          "how do we use the {colour} bin",
+          "how do we use the {colour} box",
+          "how do we use the {colour} bucket",
+          "how do we utilise the {colour} bin",
+          "how do we utilise the {colour} box",
+          "how do we utilise the {colour} bucket",
+          "what can I put in the {colour} bin",
+          "what can I put in the {colour} box",
+          "what can I put in the {colour} bucket",
+          "what can I put into the {colour} bin",
+          "what can I put into the {colour} box",
+          "what can I put into the {colour} bucket",
+          "what do I put in the {colour} bin",
+          "what do I put in the {colour} box",
+          "what do I put in the {colour} bucket",
+          "what do I put into the {colour} bin",
+          "what do I put into the {colour} box",
+          "what do I put into the {colour} bucket",
+          "what goes in the {colour} bin",
+          "what goes in the {colour} box",
+          "what goes in the {colour} bucket",
+          "what goes into the {colour} bin",
+          "what goes into the {colour} box",
+          "what goes into the {colour} bucket",
+          "what in the {colour} bin",
+          "what in the {colour} box",
+          "what in the {colour} bucket",
+          "what into the {colour} bin",
+          "what into the {colour} box",
+          "what into the {colour} bucket",
+          "what is a {colour} bin for",
+          "what is a {colour} box for",
+          "what is a {colour} bucket for",
+          "what is the {colour} bin for",
+          "what is the {colour} box for",
+          "what is the {colour} bucket for",
+          "what lives in the {colour} bin",
+          "what lives in the {colour} box",
+          "what lives in the {colour} bucket",
+          "what lives into the {colour} bin",
+          "what lives into the {colour} box",
+          "what lives into the {colour} bucket",
+          "whats a {colour} bin for",
+          "whats a {colour} box for",
+          "whats a {colour} bucket for",
+          "whats the {colour} bin for",
+          "whats the {colour} box for",
+          "whats the {colour} bucket for"
+      ],
+      "slots": [
+        {
+          "name": "colour",
+          "type": "colour",
+          "samples": []
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "name": "colour",
+      "values": [
+        {
+          "id": null,
+          "name": {
+            "value": "blue",
+            "synonyms": []
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "value": "brown",
+            "synonyms": []
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "value": "purple",
+            "synonyms": []
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "value": "black",
+            "synonyms": []
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "value": "red",
+            "synonyms": []
+          }
+        }
+      ]
+    }
+  ]
+}
