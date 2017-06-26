@@ -26,4 +26,5 @@ To set up the Alexa skill
 
 * Go to [Amazon Developer](http://developer.amazon.com) and set up a new skill
 * Use Skill Builder's Code Editor and the InteractionModel.json file under "speechAssets" here, to populate your intents, slot values and utterances
+* Go back to the code and in `index.js` change the `alexa.appId` to the new skill ID you just created.
 * Test the skill against the Lambda function created earlier.
